@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-"""reducer3.py"""
 import sys
 # Initialise variables
 current_word = None
