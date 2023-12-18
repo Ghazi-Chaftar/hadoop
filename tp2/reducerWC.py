@@ -29,4 +29,6 @@ for line in sys.stdin:
         current_word = word
         current_count = count
 # print the result for the last word
+
+
 print('{}\t{}'.format(current_word,current_count))
